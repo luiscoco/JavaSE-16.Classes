@@ -1,6 +1,6 @@
 # JavaSE-Classes
 
-## 1. Classes
+## Classes
 In Java, a class is a blueprint for creating objects. Objects are instances of classes, and they encapsulate data (attributes) and behaviors (methods). Let me show you a simple example:
 
 ```java
