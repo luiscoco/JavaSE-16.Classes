@@ -1,5 +1,7 @@
 # JavaSE-Classes
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 ## Classes
 In Java, a class is a blueprint for creating objects. Objects are instances of classes, and they encapsulate data (attributes) and behaviors (methods). Let me show you a simple example:
 
